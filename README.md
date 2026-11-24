@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 30 Days of FastAPI 🚀
 
 A practical 30-day journey learning backend development with Python and FastAPI.
@@ -63,3 +64,7 @@ A practical 30-day journey learning backend development with Python and FastAPI.
 
 **Author:** Amon Kiprop  
 **Current progress:** Day 01 completed.
+=======
+# 30-days-of-fastapi
+A 30-day practical journey learning Python FastAPI, REST APIs, authentication, databases, testing and backend development.
+>>>>>>> ec50b72005ac63a62e6392ffcfb89e737ad13889
