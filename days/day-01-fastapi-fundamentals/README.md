@@ -610,4 +610,5 @@ By completing this lesson, I have learned:
 
 *Learning FastAPI one concept and one practical project at a time.*
 
-**Next Learning Goal:** Continue exploring request handling, data validation, database integration and building functional REST APIs.
+**Author
+Amon Kipngetich Kiprop
