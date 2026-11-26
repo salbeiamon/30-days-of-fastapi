@@ -1,4 +1,4 @@
-# Day 2: Building a User Management API with FastAPI to learn more about HTTP Mothods and exception to handle errors
+# Day 2: Building a User Management API with FastAPI to learn more about HTTP Methods and exception to handle errors
 
 ## 1. Introduction
 
